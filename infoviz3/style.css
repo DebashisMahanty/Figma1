@@ -1,0 +1,198 @@
+body{
+
+background-color: #FAEBEB
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.login-page{
+	background-color:blue;
+	min-height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+
+
+}
+
+.login-page{
+	background-color: #ffffff;
+
+
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    display: flex;
+		border-radius: 20px;
+
+}
+.login-page .login-box .img{
+	flex-basis: 50%;
+	max-width: 50%;
+}
+.login-page .login-box .img img{
+	display: block;
+	width: 100%;
+}
+.login-page .login-box .login-form{
+	flex-basis: 50%;
+	max-width: 50%;
+	padding-left: 30px;
+}
+.login-page .login-box .login-form h3{
+
+  margin:20px 0 45px;
+  border-bottom: 1px;
+  padding-bottom: 5px;
+}
+
+.login-page .login-box .login-form .form-heading,
+.login-page .login-box .login-form form{
+	width: 100%;
+}
+
+.login-page .login-box .login-form form .field{
+	width: 100%;
+
+}
+
+.login-page .login-box .login-form form .form-control{
+  height: 45px;
+  font-size: 14px;
+
+  background-color:#e7e7e7;
+  border:none;
+}
+.login-page .login-box .login-form form .sign-in-remember label{
+ color: #444444;
+ cursor: pointer;
+ font-size: 16px;
+}
+
+.login-page .login-box .login-form form {
+	height: 45px;
+
+	padding:0 40px;
+
+	font-size: 16px;
+	color:#ffffff;
+	cursor: pointer;
+	border: none;
+
+}
+.login-page .login-box .login-form form {
+
+}
+
+
+
+
+
+.login-box{
+	background-color: #ffffff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    padding: 0px;
+    display: flex;
+		border-radius: 20px;
+
+
+
+}
+.imgg{
+	border-radius:0px 20px 20px 0px;
+}
+.butn{
+	padding-top: 20px;
+}
+
+.headlog{
+	padding-top: 20px;
+}
+.classname{
+	-moz-box-shadow:inset 2px -1px 0px 0px #54a3f7;
+	-webkit-box-shadow:inset 2px -1px 0px 0px #54a3f7;
+	box-shadow:inset 2px -1px 0px 0px #54a3f7;
+	background-color:#013184;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:53px;
+	line-height:53px;
+width:122px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px -1px 0px #154682;
+}
+.classname:hover {
+	background-color:#aa9dcf;
+}
+.classname:active {
+	position:relative;
+	top:1px;
+}
+
+#facebook1{
+	padding-left: 15px;
+
+}
+.fb2{
+	padding-left: 20px;
+}
+.h6{
+	color: blue;
+}
+.botns{
+	padding-top: 1.5rem;
+}
+.signnnn{
+	padding-top: 3rem;
+}
+.nxt{
+	padding-left: 3rem;
+}
+i{
+	font-size: 25px;
+padding: 5px;
+}
+.butn:hover {
+  background-color: RoyalBlue;
+}
+.butn{
+  background-color: #132845;
+  border: none;
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  border-radius: 5px;
+	font-size: 1rem;
+	margin:20px auto;
+}
+#ggl{
+	padding-left: 20px;
+	padding-right: 35px;
+
+}
+.figma{
+padding-bottom: 50px;
+	padding-left : 1400px;
+	
+}
